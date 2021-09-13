@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "origem": "011",
+        "destino": "016",
+        "valor": "1.90"
+    },
+    {
+        "id": "1",
+        "origem": "016",
+        "destino": "011",
+        "valor": "2.90"
+    },
+    {
+        "id": "1",
+        "origem": "011",
+        "destino": "017",
+        "valor": "1.70"
+    },
+    {
+        "id": "1",
+        "origem": "017",
+        "destino": "011",
+        "valor": "2.70"
+    },
+    {
+        "id": "1",
+        "origem": "011",
+        "destino": "018",
+        "valor": "0.90"
+    },
+    {
+        "id": "1",
+        "origem": "018",
+        "destino": "011",
+        "valor": "1.90"
+    }
+]
