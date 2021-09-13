@@ -22,17 +22,5 @@
         "origem": "017",
         "destino": "011",
         "valor": "2.70"
-    },
-    {
-        "id": "5",
-        "origem": "011",
-        "destino": "018",
-        "valor": "0.90"
-    },
-    {
-        "id": "6",
-        "origem": "018",
-        "destino": "011",
-        "valor": "1.90"
     }
 ]
